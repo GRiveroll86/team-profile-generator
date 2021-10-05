@@ -16,7 +16,6 @@ h1 {
     display: flex;
     flex-wrap: wrap;
     justify-content: safe center;
-    border: 1px solid black;
     margin-left: 20%;
     margin-right: 20%;
 }
